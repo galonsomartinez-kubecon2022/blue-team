@@ -1,0 +1,5 @@
+plugins:
+# non-cap plugins
+- id: pipeline-utility-steps
+- id: pipeline-graph-view
+
